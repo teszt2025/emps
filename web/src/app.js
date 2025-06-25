@@ -21,7 +21,8 @@ const empModalLabel = document.querySelector('#empModalLabel')
 //     empModalLabel: document.querySelector('#empModalLabel')
 // }
 
-const url = 'http://localhost:8000/api/employees'
+//const url = 'http://localhost:8000/api/employees'
+const url = 'https://emps-7xxi.onrender.com/api/employees'
 var idForDelete = -1;
 
 var addMode = true;
